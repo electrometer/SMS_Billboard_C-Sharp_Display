@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS Billboard", "SMS Billboard\SMS Billboard\SMS Billboard.csproj", "{0B5B1338-75AC-402A-8E3C-9A7A3D5C1681}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SMS BillboardContent", "SMS Billboard\SMS BillboardContent\SMS BillboardContent.contentproj", "{5911E885-53E6-47B8-9F23-967B77CB4754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5B1338-75AC-402A-8E3C-9A7A3D5C1681}.Debug|x86.ActiveCfg = Debug|x86
+		{0B5B1338-75AC-402A-8E3C-9A7A3D5C1681}.Debug|x86.Build.0 = Debug|x86
+		{0B5B1338-75AC-402A-8E3C-9A7A3D5C1681}.Release|x86.ActiveCfg = Release|x86
+		{0B5B1338-75AC-402A-8E3C-9A7A3D5C1681}.Release|x86.Build.0 = Release|x86
+		{5911E885-53E6-47B8-9F23-967B77CB4754}.Debug|x86.ActiveCfg = Debug|x86
+		{5911E885-53E6-47B8-9F23-967B77CB4754}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

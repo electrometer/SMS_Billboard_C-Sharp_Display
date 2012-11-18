@@ -1,0 +1,7 @@
+C:\File Store\Documents\Projects\VS Workspace\SMS Billboard\SMS Billboard\SMS Billboard\bin\x86\Debug\Content\TextObject.xnb
+C:\File Store\Documents\Projects\VS Workspace\SMS Billboard\SMS Billboard\SMS Billboard\bin\x86\Debug\SMS Billboard.exe
+C:\File Store\Documents\Projects\VS Workspace\SMS Billboard\SMS Billboard\SMS Billboard\bin\x86\Debug\SMS Billboard.pdb
+C:\File Store\Documents\Projects\VS Workspace\SMS Billboard\SMS Billboard\SMS Billboard\obj\x86\Debug\SMS Billboard.csprojResolveAssemblyReference.cache
+C:\File Store\Documents\Projects\VS Workspace\SMS Billboard\SMS Billboard\SMS Billboard\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\File Store\Documents\Projects\VS Workspace\SMS Billboard\SMS Billboard\SMS Billboard\obj\x86\Debug\SMS Billboard.exe
+C:\File Store\Documents\Projects\VS Workspace\SMS Billboard\SMS Billboard\SMS Billboard\obj\x86\Debug\SMS Billboard.pdb
